@@ -95,7 +95,7 @@ const ujwal = {
 
 #### Thank You-🙏🏼
 
-⭐️ From [Ujwal](https://github.com/ZIYAJAVED3)
+⭐️ From [Ziya Javed](https://github.com/ZIYAJAVED3)
 
 <!--[website]: -->
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
