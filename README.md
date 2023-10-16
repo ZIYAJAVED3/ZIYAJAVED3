@@ -31,7 +31,7 @@
 ### Languages and Tools: 
 
 ```javascript
-const ujwal = {
+const ziya = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Typescript", "C++", "C", "Python"],
     askMeAbout: ["web dev", "tech", "researches"],
