@@ -17,13 +17,13 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-### I am a software engineer & researcher
-- 🔭 I’m currently looking for my first full-time opportunity :grin:
-- 🌱 I’m currently learning AWS.
-- 👯 I’m looking to collaborate with other Developers :wink:
+### I am an AI software developer & researcher
+- 🔭 Currently building AI-driven cybersecurity & compliance agents :grin:
+- 🌱 Working on LLM applications, RAG pipelines, and autonomous workflows
+- 👯 Stack: React, Node.js, FastAPI, Docker, Vector DBs 
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
+- 📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/ziyasaifi/]
+- 🧗 Ask me about AI engineering, full-stack systems
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
